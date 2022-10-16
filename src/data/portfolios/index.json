@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "title": "HONEYPOTFLIX",
+    "slug": "honeypotflixplay",
+    "category": "web app",
+    "thumb": "portfolio-1.png",
+    "description": "This project is using Rest API created with Node and Express and it uses Passport and JavaScript Web Tokens (JWT) to authenticate and authorise a user. The server lives on Heroku and the data is sitting on MongoDB.",
+    "previewImages": [
+      "portfolio-1.png"
+    ],
+    "meta": {
+      "project": "Achievement 3",
+      "date": "01/05/2020",
+      "website": "https://main--honeypotflixplay.netlify.app/",
+      "services": [
+        "MongoDB",
+        "Postman",
+        "Rest API",
+        "React",
+        "Node",
+        "SCSS"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "MEET APP",
+    "slug": "booth-meet-app",
+    "category": "web app",
+    "thumb": "portfolio-2.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-2.png"
+    ],
+    "meta": {
+      "project": "Achievement 4",
+      "date": "01/05/2021",
+      "website": "https://xurros.github.io/dbooth/",
+      "services": [
+        "Jest-Cucumber",
+        "Puppeteer",
+        "React",
+        "Node",
+        "Express"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "HOLA! CHAT",
+    "slug": "chat-app",
+    "category": "application",
+    "thumb": "portfolio-3.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-3.png"
+    ],
+    "meta": {
+      "project": "Achievement 5",
+      "date": "21/05/2021",
+      "website": "https://xurros.github.io/holachatapp/",
+      "services": [
+        "Expo",
+        "React Native",
+        "npm",
+        "Firebase/Firestore"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "myReadingCorner App",
+    "slug": "books",
+    "category": "web app",
+    "thumb": "portfolio-4.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-4.png"
+    ],
+    "meta": {
+      "project": "Independent",
+      "date": "01/05/2021",
+      "website": "https://myreadingcorner.netlify.app/",
+      "services": [
+        "App",
+        "Web",
+        "Books"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "TRACK19",
+    "slug": "covid19tracker",
+    "category": "Website",
+    "thumb": "portfolio-5.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-5.png"
+    ],
+    "meta": {
+      "project": "Independent",
+      "date": "01/05/2021",
+      "website": "https://google.com",
+      "services": [
+        "Branding",
+        "Web",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "UI/UX DESIGN",
+    "slug": "css-showcase",
+    "category": "Design",
+    "thumb": "portfolio-6.png",
+    "description": "A compilation of 15 small projects using CSS/Javascript/JQuery and HTML.",
+    "previewImages": [
+      "portfolio-6.png"
+    ],
+    "meta": {
+      "project": "Independent",
+      "date": "05/31/2021",
+      "website": "https://xurros.github.io/uicompilations/",
+      "services": [
+        "Javascript",
+        "JQuery",
+        "CSS",
+        "HTML"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "JS TOOLTIP",
+    "slug": "javascript-css-hover-tooltip",
+    "category": "JavaScript Library",
+    "thumb": "portfolio-7.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-7.png"
+    ],
+    "meta": {
+      "project": "Javascript Library",
+      "date": "11/03/2021",
+      "website": "https://xurros.github.io/tooltip/",
+      "services": [
+        "CSS",
+        "JQuery"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "TBA",
+    "slug": "flying-macbook-m1-chip",
+    "category": "Markup",
+    "thumb": "portfolio-8.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-8.png"
+    ],
+    "meta": {
+      "project": "Independent",
+      "date": "29/09/2021",
+      "website": "https://google.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "TBA",
+    "slug": "portfolio-lorem-ipsum",
+    "category": "Markup",
+    "thumb": "portfolio-9.png",
+    "description": "Sadly nothing to show right now.",
+    "previewImages": [
+      "portfolio-9.png"
+    ],
+    "meta": {
+      "project": "TBA",
+      "date": "31/08/2021",
+      "website": "https://google.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "media": "github",
+    "url": "https://github.com/xurros"
+  },
+  {
+    "id": 2,
+    "media": "linkedin",
+    "url": "https://linkedin.com"
+  },
+  {
+    "id": 3,
+    "media": "twitter",
+    "url": "https://twitter.com"
+  }
+  
+]

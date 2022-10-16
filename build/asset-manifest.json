@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolios/static/css/main.7f2dec57.css",
+    "main.js": "/portfolios/static/js/main.41a0857a.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolios/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/portfolios/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolios/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolios/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ssoewandilogo.png": "/portfolios/static/media/ssoewandilogo.f172b007da1b560537f7.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolios/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/portfolio-5.png": "/portfolios/static/media/portfolio-5.17113f2ae724e4796615.png",
+    "static/media/portfolio-2.png": "/portfolios/static/media/portfolio-2.8b223c6fe0bde3276131.png",
+    "static/media/portfolio-4.png": "/portfolios/static/media/portfolio-4.21ba5154626359d32e12.png",
+    "static/media/portfolio-3.png": "/portfolios/static/media/portfolio-3.766dfec7242c80b4a7af.png",
+    "static/media/portfolio-6.png": "/portfolios/static/media/portfolio-6.cde3634ea9ff35a23b36.png",
+    "static/media/portfolio-5a.png": "/portfolios/static/media/portfolio-5a.18a677bb4ec50fa8734c.png",
+    "static/media/about.jpg": "/portfolios/static/media/about.e1fb6346a44e8b9d8fd9.jpg",
+    "static/media/portfolio-9.png": "/portfolios/static/media/portfolio-9.6f25db14a358486ead15.png",
+    "static/media/portfolio-7.png": "/portfolios/static/media/portfolio-7.ec10cdcb8c34f23402df.png",
+    "static/media/portfolio-8.png": "/portfolios/static/media/portfolio-8.cc780d44fd24533c7cce.png",
+    "static/media/blog-hero.png": "/portfolios/static/media/blog-hero.8cd08a8cc29603e9a4fd.png",
+    "static/media/service-bg.png": "/portfolios/static/media/service-bg.16c84393ea22d1cd7f28.png",
+    "static/media/404.png": "/portfolios/static/media/404.39d4a4d6685a2f821e2c.png",
+    "static/media/portfolio-1.png": "/portfolios/static/media/portfolio-1.252600f8c220b349e469.png",
+    "static/media/favicon.ico": "/portfolios/static/media/favicon.c56cc421db1c1d5ef56f.ico",
+    "index.html": "/portfolios/index.html",
+    "main.7f2dec57.css.map": "/portfolios/static/css/main.7f2dec57.css.map",
+    "main.41a0857a.js.map": "/portfolios/static/js/main.41a0857a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2dec57.css",
+    "static/js/main.41a0857a.js"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "thumb": "about.jpg",
+  "bio": [
+    "I'm Salomy - a recent full-stack bootcamp graduate. I love front-end web development with an approach to design simple and functional websites.",
+    " I save you headaches, money, and time.  Chat soon!",
+    ""
+  ],
+  "github": "https://github.com/xurros",
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "title": "HTML/CSS",
+      "percentage": 90
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "percentage": 75
+    },
+    {
+      "id": 3,
+      "title": "Javascript/Node",
+      "percentage": 60
+    }
+  ]
+}
